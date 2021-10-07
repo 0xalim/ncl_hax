@@ -11,3 +11,4 @@ the moon obviously!
 * https://github.com/apsdehal/awesome-ctf                       - Overall
 * http://rumkin.com/tools/cipher/                               - Find cipher
 * https://gchq.github.io/CyberChef/                             - Magic Identifier
+* Linux man pages for cut, uniq, sed, awk
