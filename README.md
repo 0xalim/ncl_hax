@@ -33,6 +33,7 @@ Stego
 * Steghide
 * Binwalk: multiple files; binwalk --dd="." "file"
 * DIIT
+* 29a.ch photo-forensics
 
 ## Enumeration and Exploitation
 
