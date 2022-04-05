@@ -77,3 +77,7 @@ Stego
 * Binwalk
 * Hexdump
 * Unzip, gzip, tar
+
+## Logging
+
+*  newline every x bytes: perl -p -e 's/(.{900})/$1\n/g' < oldfile > newfile 
